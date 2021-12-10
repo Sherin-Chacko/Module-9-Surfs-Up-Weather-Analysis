@@ -1,7 +1,7 @@
 ### Module-9-Surfs-Up-Weather-Analysis
 SQLite
 
-## 1) OVERVIEW: 
+## 1) OVERVIEW OF THE ANALYSIS: 
 
 This challenge focuses on the weather temperature in Oahu, Hawaii during the months of June and December, looking at different statistics between the two periods to help determine whether an ice cream/surf shop would have good weather conditions to operate.
 
@@ -12,7 +12,18 @@ SOURCES:
 * Data Tools: Python SQL toolkit (SQLAlchemy), Object Relational Mapper, Pandas, Numpy
 * Software: SQLlite, Python 3.9.2, Flask, Jupyter Notebook
 
-These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
+## 2) RESULTS:
+
+From the following two tables, we can observe the statistics for the temperature in the months of January and December.
+
+
+
+
+
+
+
+
+
 
 Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
 the maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
