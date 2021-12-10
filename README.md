@@ -30,8 +30,7 @@ Additional query can be done as follows:
 
 *STATION vs TEMPERATURE FOR THE MONTHS OF JUNE AND DECEMBER:
 
-
-
+<img width="248" alt="Screen Shot 2021-12-09 at 11 13 33 PM" src="https://user-images.githubusercontent.com/91294352/145516250-e2cb77b2-a278-4a5c-9d17-5cb4c5a72793.png">
 
 
 
