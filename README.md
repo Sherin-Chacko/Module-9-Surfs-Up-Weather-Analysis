@@ -30,7 +30,11 @@ Additional query can be done as follows:
 
 *STATION vs TEMPERATURE FOR THE MONTHS OF JUNE AND DECEMBER:
 
-<img width="248" alt="Screen Shot 2021-12-09 at 11 13 33 PM" src="https://user-images.githubusercontent.com/91294352/145516250-e2cb77b2-a278-4a5c-9d17-5cb4c5a72793.png">
+<img width="248" alt="Screen Shot 2021-12-09 at 11 13 33 PM" src="https://user-images.githubusercontent.com/91294352/145516250-e2cb77b2-a278-4a5c-9d17-5cb4c5a72793.png"> <img width="231" alt="Screen Shot 2021-12-09 at 11 13 42 PM" src="https://user-images.githubusercontent.com/91294352/145516368-7bf9cc0d-0c75-4a81-9c13-3238f40d5cff.png">
+
+A) The summary statistics of temperatures recorded by station for each month can help us to determine where in Oahu to build the shop. By comparing the variances in temperatures and the frequencies recorded, we can narrow our results on an desired location.
+
+B) Other climatic conditions including precipitation, wind, wave tides are the other factors that should be taken into our consideration while featuring  the optimal location for the shop. We cannot stick on to the temperature factor alone to make a decision.
 
 
 
@@ -38,10 +42,3 @@ Additional query can be done as follows:
 
 
 
-Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
-the maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
-the minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
-
-For specificity, I would like to delve into the summary statistics of temperatures recorded by station for each month. This can help determine geopgraphically where in Oahu to build the prospective shop. By comparing the variances in temperatures and the frequencies recorded, we can narrow in on an optimal location.
-
-Secondly, I would like to review other important variables that are correlated with optimal beach and surfing weather. Sunch varibles include precipitation, wave swells and wind condition. Though there may be some contrasting optimal conditions based on surfing vs sunbathing, it is important to identify those conditions and see how they correlate to foot traffic to the beach (depending on the time of year). It would be foolish to only value temperatures as the key indicator for opening a business.
