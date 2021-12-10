@@ -14,7 +14,7 @@ SOURCES:
 
 ## 2) RESULTS:
 
-From the following two tables, we can observe the statistics for the temperature in the months of January and December.
+From the following table, we can observe the statistics for the temperature in the months of January and December.
 
 <img width="716" alt="Screen Shot 2021-12-09 at 11 03 39 PM" src="https://user-images.githubusercontent.com/91294352/145515439-c423f498-60dc-46c1-a975-3db0f2f53190.png">
 
