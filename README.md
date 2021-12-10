@@ -16,6 +16,20 @@ SOURCES:
 
 From the following two tables, we can observe the statistics for the temperature in the months of January and December.
 
+<img width="716" alt="Screen Shot 2021-12-09 at 11 03 39 PM" src="https://user-images.githubusercontent.com/91294352/145515439-c423f498-60dc-46c1-a975-3db0f2f53190.png">
+
+a) The December temperatures seem to be more variable than those in June.
+b) The average recorded temperature in June is about 75 degrees F, nearly 4 degrees higher than the average temperature in December.
+c) The median temperature in December is more inline with the average, and there are not many outliers skewing the average temperature higher or lower than the actual recorded frequency.
+
+## 3) SUMMARY:
+
+Even though the temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream. We cannot stick on to the temperature factor alone to make a decision.
+
+Additional query can be done as follows:
+
+*STATION vs TEMPERATURE FOR THE MONTHS OF JUNE AND DECEMBER:
+
 
 
 
